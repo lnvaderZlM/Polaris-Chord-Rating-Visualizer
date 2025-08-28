@@ -2,33 +2,25 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
+import chartConstants from '../src/chartConstants.json'
+import './index.css'
+import HeroLayout from './layouts/HeroLayout';
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [scores, setScores] = useState([])
 
   return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+    <HeroLayout align="">
+      <div className="">
+      <h1 className="text-5xl font-extrabold text-white drop-shadow-lg mb-4">
+        Polaris Chord Rating Analyzer
+      </h1>
+      <div className="flex flex-col items-start">
+          <label for="scores-input">Input scores here:</label>
+          <textarea id="scores-input" className="bg-foreground w-full" rows="8"></textarea>
+        </div>
       </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
+    </HeroLayout>
   )
 }
 
