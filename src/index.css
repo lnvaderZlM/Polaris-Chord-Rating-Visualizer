@@ -9,6 +9,17 @@
   --color-accent-light: #005FCC;
   --color-divider-light: #E0E0E0;
   --color-border-light: #333333;
+
+  --color-easy: #3D8BFF;
+  --color-normal: #2ECC71;
+  --color-hard: #F1C40F;
+  --color-influence: #E74C3C;
+
+  --color-easy-trans: rgba(61, 139, 255, 0.15);
+  --color-normal-trans: rgba(46, 204, 113, 0.15);
+  --color-hard-trans: rgba(241, 196, 15, 0.15);
+  --color-influence-trans: rgba(231, 76, 60, 0.15);
+
 }
 
 @theme inline {
@@ -51,6 +62,20 @@ body {
 
 p a {
   color: var(--color-accent);
+}
+
+.difficulty-1 {
+  background-color: var(--color-easy-trans);
+}
+.difficulty-2 {
+  background-color: var(--color-normal-trans);
+}
+.difficulty-3 {
+  background-color: var(--color-hard-trans);
+}
+.difficulty-4 {
+  background-color: var(--color-influence-trans);
+  
 }
 
 /* broken in tailwind v4 atm */
