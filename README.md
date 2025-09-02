@@ -2,6 +2,8 @@
 
 Visualizes Polaris Chord scores focusing on their PA Skill value, in both a B30 (best 30) image and a table of all scores.
 
+View page here: https://lnvaderzlm.github.io/Polaris-Chord-Rating-Visualizer/
+
 ## How to Use
 
 1. Get your score data in the format that Bemani gives it in
