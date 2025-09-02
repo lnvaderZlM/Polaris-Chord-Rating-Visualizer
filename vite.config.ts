@@ -4,6 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/Polaris-Chord-Rating-Visualizer/',
   plugins: [
     react(),
     tailwindcss(),
