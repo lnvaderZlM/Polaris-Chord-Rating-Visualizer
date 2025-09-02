@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-export default function FileInput({ onJsonLoad }) {
+export default function FileInput({ onJsonLoad, className }) {
   const [fileName, setFileName] = useState("");
   const [error, setError] = useState("");
 
@@ -38,7 +38,7 @@ export default function FileInput({ onJsonLoad }) {
   };
 
   return (
-    <div className="flex flex-col items-start space-y-2 w-full mt-2 mb-2">
+    <div className={`flex flex-col items-start space-y-2 w-full mt-2 mb-2 ${className}`}>
       <input
         type="file"
         id="file-upload"

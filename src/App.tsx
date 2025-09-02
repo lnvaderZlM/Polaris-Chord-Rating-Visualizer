@@ -1,7 +1,8 @@
-import { useState, useRef } from 'react'
-import './App.css'
-import allChartConstants from '../src/chartConstants.json'
-import './index.css'
+import { useState, useRef } from 'react';
+import './App.css';
+import allChartConstants from '../src/chartConstants.json';
+import sampleJson from '../src/sample_pc_scores.json';
+import './index.css';
 import HeroLayout from './layouts/HeroLayout';
 import FileInput from './components/FileInput';
 import {
@@ -37,6 +38,10 @@ function App() {
     setUploadedScoreJson(json);
     userScoresRef.current.value = JSON.stringify(json);
   };
+
+  const loadSampleScores = () => {
+    userScoresRef.current.value = JSON.stringify(sampleJson);
+  }
 
   const calculatePaSkill = (base, cap, achievement, floor, ceil) => {
     const range = ceil - floor;
@@ -151,12 +156,16 @@ function App() {
         </h1>
         <div className="flex flex-col items-start mb-4">
           <label for="scores-input">Input scores here:</label>
-          <FileInput onJsonLoad={handleJsonLoad} />
+          <div className="flex w-full gap-2 flex-col md:flex-row items-center mb-4">
+            <FileInput className="flex-1" onJsonLoad={handleJsonLoad} />
+            <button className="responsive-bg btn py-2 px-4 h-fit w-full md:w-auto" onClick={loadSampleScores}>Load Sample</button>
+          </div>
           <textarea placeholder="Upload a json or paste it here" ref={userScoresRef} id="scores-input" className="p-4 w-full responsive-bg"rows="5"></textarea>
         </div>
         <button className="
           px-4 py-2
           responsive-bg btn
+          w-full md:w-auto
           " onClick={calculateScores}>Calculate</button>
       </div>
 
@@ -181,6 +190,7 @@ function App() {
                         <div className="w-1/3 relative">
                           <img
                             src={currImage}
+                            // src={'/src/assets/Placeholder.png'}
                             className="h-full object-cover"
                             alt=""
                           />
