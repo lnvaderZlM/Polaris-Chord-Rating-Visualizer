@@ -83,7 +83,14 @@ p a {
   padding-bottom: 8px;
 }
 
-/* broken in tailwind v4 atm */
-/*.theme-button-colors {
-  @apply border border-solid border-border-light hover:border-hover-light dark:border-border-dark dark:hover:border-hover-dark;
-}*/
+@layer components {
+  .responsive-bg {
+    @apply bg-white text-gray-700 border border-gray-300
+      dark:bg-gray-800 dark:text-gray-200 dark:border-gray-600
+  }
+
+  .btn {
+    @apply hover:bg-gray-100 dark:hover:bg-gray-700
+      transition cursor-pointer rounded-2xl shadow-sm
+  }
+}

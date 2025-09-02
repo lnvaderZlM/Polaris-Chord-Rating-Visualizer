@@ -3,6 +3,7 @@ import './App.css'
 import allChartConstants from '../src/chartConstants.json'
 import './index.css'
 import HeroLayout from './layouts/HeroLayout';
+import FileInput from './components/FileInput';
 import {
   Tabs,
   TabsHeader,
@@ -25,10 +26,17 @@ type ScoreData = {
 }
 
 function App() {
+  const [uploadedScoreJson, setUploadedScoreJson] = useState(null);
   const [scores, setScores] = useState([]);
   const [allScores, setAllScores] = useState([]);
   const [userRating, setUserRating] = useState(null);
+  const [error, setError] = useState(null);
   const userScoresRef = useRef(null);
+
+  const handleJsonLoad = (json) => {
+    setUploadedScoreJson(json);
+    userScoresRef.current.value = JSON.stringify(json);
+  };
 
   const calculatePaSkill = (base, cap, achievement, floor, ceil) => {
     const range = ceil - floor;
@@ -40,7 +48,14 @@ function App() {
   };
   
   const calculateScores = (e) => {
-    const userScores = JSON.parse(userScoresRef.current.value);
+    let userScores = null;
+    try {
+      userScores = JSON.parse(userScoresRef.current.value);
+    }
+    catch(error) {
+      setError(error);
+      return;
+    }
 
     const musicData = userScores.data.score_data.usr_music_highscore.music;
 
@@ -125,6 +140,7 @@ function App() {
 
     const fixedRating = Math.trunc((totalRating / 30) * 100) / 100
     setUserRating(fixedRating);
+    setError(null);
   };
 
   return (
@@ -135,13 +151,19 @@ function App() {
         </h1>
         <div className="flex flex-col items-start mb-4">
           <label for="scores-input">Input scores here:</label>
-          <textarea ref={userScoresRef} id="scores-input" className="bg-foreground text-background p-4 w-full" rows="5"></textarea>
+          <FileInput onJsonLoad={handleJsonLoad} />
+          <textarea placeholder="Upload a json or paste it here" ref={userScoresRef} id="scores-input" className="p-4 w-full responsive-bg"rows="5"></textarea>
         </div>
-        <button className="bg-foreground px-4 py-2 text-background rounded-sm border border-solid hover:border-foreground hover:text-foreground hover:bg-transparent" onClick={calculateScores}>Calculate</button>
+        <button className="
+          px-4 py-2
+          responsive-bg btn
+          " onClick={calculateScores}>Calculate</button>
       </div>
 
+      {error && <p className="text-lg text-red-500 mt-4">{error.toString()}</p>}
+
       {userRating !== null && 
-        <div className="mt-4">
+        <div className="mt-4 text-foreground">
           <h2 className="text-left text-lg font-semibold">User Rating: {userRating.toFixed(2)}</h2>
           <Tabs value="image" className="mt-4">
             <TabsHeader>
@@ -149,7 +171,7 @@ function App() {
               <Tab key="table" value="table">All Scores Table</Tab>
             </TabsHeader>
             <TabsBody>
-              <TabPanel key="image" value="image">
+              <TabPanel key="image" value="image" className="text-foreground">
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2">
                   { scores.map((score, index) => {
                     const {paSkill, title, difficulty, id} = score;
@@ -176,7 +198,7 @@ function App() {
                   })}
                 </div>
               </TabPanel>
-              <TabPanel key="table" value="table">
+              <TabPanel key="table" value="table" className="text-foreground">
                 <table className="w-full text-left border-1 border-foreground">
                   <tr className="">
                     <th className="cell-padding">Song</th>
