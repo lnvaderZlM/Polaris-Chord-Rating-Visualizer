@@ -13,6 +13,7 @@ import {
   TabPanel,
 } from "@material-tailwind/react";
 
+
 const difficulties = [
     "EASY",
     "NORMAL",
@@ -24,26 +25,30 @@ type ScoreData = {
   paSkill: number;
   id: string;
   title: string;
+  grade: string;
+  achievement_rate: number;
+  difficulty: string;
+  chartConstant: number;
 }
 
 function App() {
-  const [uploadedScoreJson, setUploadedScoreJson] = useState(null);
-  const [scores, setScores] = useState([]);
-  const [allScores, setAllScores] = useState([]);
-  const [userRating, setUserRating] = useState(null);
-  const [error, setError] = useState(null);
-  const userScoresRef = useRef(null);
+  const [scores, setScores] = useState<ScoreData[]>([]);
+  const [allScores, setAllScores] = useState<ScoreData[]>([]);
+  const [userRating, setUserRating] = useState<number | null>(null);
+  const [error, setError] = useState<any>(null);
+  const userScoresRef = useRef<HTMLTextAreaElement>(null);
 
-  const handleJsonLoad = (json) => {
-    setUploadedScoreJson(json);
+  const handleJsonLoad = (json:any) => { //expected to be official score data from ea site
+    if(!userScoresRef.current) return; //@TODO possibly error here
     userScoresRef.current.value = JSON.stringify(json);
   };
 
   const loadSampleScores = () => {
+    if(!userScoresRef.current) return; //@TODO possibly error here
     userScoresRef.current.value = JSON.stringify(sampleJson);
   }
 
-  const calculatePaSkill = (base, cap, achievement, floor, ceil) => {
+  const calculatePaSkill = (base:number, cap:number, achievement:number, floor:number, ceil:number) => {
     const range = ceil - floor;
     const score = achievement - floor;
 
@@ -52,19 +57,20 @@ function App() {
     return base + bonusRate;
   };
   
-  const calculateScores = (e) => {
+  const calculateScores = () => {
     let userScores = null;
     try {
+      if(!userScoresRef.current) return; //@TODO possibly error here
       userScores = JSON.parse(userScoresRef.current.value);
     }
-    catch(error) {
+    catch(error:any) {
       setError(error);
       return;
     }
 
     const musicData = userScores.data.score_data.usr_music_highscore.music;
 
-    const fullScoreData:ScoreData = {};
+    const fullScoreData:any = {};
 
     for(let song of musicData) {
       const songTitle = song.name;
@@ -73,7 +79,8 @@ function App() {
       if(!Array.isArray(playedCharts)) {
         playedCharts = [playedCharts];
       }
-      const chartConstants = allChartConstants[songTitle];
+      const chartConstants = allChartConstants[songTitle as keyof typeof allChartConstants];
+
       for(let playedChart of playedCharts) {
         const {achievement_rate, chart_difficulty_type} = playedChart;
         const chartConstant = Number(chartConstants[chart_difficulty_type]);
@@ -155,12 +162,12 @@ function App() {
           Polaris Chord Rating Analyzer
         </h1>
         <div className="flex flex-col items-start mb-4">
-          <label for="scores-input">Input scores here:</label>
+          <label>Input scores here:</label>
           <div className="flex w-full gap-2 flex-col md:flex-row items-center mb-4">
             <FileInput className="flex-1" onJsonLoad={handleJsonLoad} />
             <button className="responsive-bg btn py-2 px-4 h-fit w-full md:w-auto" onClick={loadSampleScores}>Load Sample</button>
           </div>
-          <textarea placeholder="Upload a json or paste it here" ref={userScoresRef} id="scores-input" className="p-4 w-full responsive-bg"rows="5"></textarea>
+          <textarea placeholder="Upload a json or paste it here" ref={userScoresRef} id="scores-input" className="p-4 w-full responsive-bg"rows={5}></textarea>
         </div>
         <button className="
           px-4 py-2
@@ -175,11 +182,11 @@ function App() {
         <div className="mt-4 text-foreground">
           <h2 className="text-left text-lg font-semibold">User Rating: {userRating.toFixed(2)}</h2>
           <Tabs value="image" className="mt-4">
-            <TabsHeader>
-              <Tab key="image" value="image" className="cursor-pointer text-blue-gray">B30 Image</Tab>
-              <Tab key="table" value="table">All Scores Table</Tab>
+            <TabsHeader {...({} as any)}>
+              <Tab {...({} as any)} key="image" value="image" className="cursor-pointer text-blue-gray">B30 Image</Tab>
+              <Tab {...({} as any)} key="table" value="table">All Scores Table</Tab>
             </TabsHeader>
-            <TabsBody>
+            <TabsBody {...({} as any)}>
               <TabPanel key="image" value="image" className="text-foreground">
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2">
                   { scores.map((score, index) => {
@@ -217,7 +224,7 @@ function App() {
                     <th className="cell-padding">Rating</th>
                   </tr>
                   { allScores.map((score, index) => {
-                    const {paSkill, title, difficulty, songId, chartConstant, grade, achievement_rate } = score;
+                    const {paSkill, title, difficulty, chartConstant, grade, achievement_rate } = score;
                     return (
                       <tr key={index} className={`difficulty-${difficulties.indexOf(difficulty) + 1} border-b-1 border-background`}>
                         <td className="cell-padding">{title} ({difficulty})</td>

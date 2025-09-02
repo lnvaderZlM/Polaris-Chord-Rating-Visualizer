@@ -1,21 +1,26 @@
-import { useState } from "react";
+import React, { useState } from "react";
 
-export default function FileInput({ onJsonLoad, className }) {
+type FileInputProps = {
+  onJsonLoad: Function;
+  className: string;
+}
+
+export default function FileInput({ onJsonLoad, className }:FileInputProps) {
   const [fileName, setFileName] = useState("");
   const [error, setError] = useState("");
 
-  const handleFile = (file) => {
+  const handleFile = (file:File) => {
     setFileName(file?.name || "");
     setError("");
 
     if (!file) return;
 
     const reader = new FileReader();
-    reader.onload = (e) => {
+    reader.onload = (e:ProgressEvent<FileReader>) => {
       try {
-        const text = e.target.result;
+        const text = e.target?.result as string;
         const jsonData = JSON.parse(text);
-        onJsonLoad(jsonData); // ✅ send parsed JSON to parent
+        onJsonLoad(jsonData); 
       } catch (err) {
         setError("Invalid JSON file");
         console.error("JSON parse error:", err);
@@ -24,12 +29,12 @@ export default function FileInput({ onJsonLoad, className }) {
     reader.readAsText(file);
   };
 
-  const handleChange = (e) => {
+  const handleChange = (e:React.ChangeEvent<HTMLInputElement>) => {
     const file = e.target.files?.[0];
     if (file) handleFile(file);
   };
 
-  const handleDrop = (e) => {
+  const handleDrop = (e:any) => {
     e.preventDefault();
     e.stopPropagation();
 
