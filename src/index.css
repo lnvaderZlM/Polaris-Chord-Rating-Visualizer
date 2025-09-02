@@ -75,7 +75,12 @@ p a {
 }
 .difficulty-4 {
   background-color: var(--color-influence-trans);
-  
+}
+
+.cell-padding {
+  padding-left: 16px;
+  padding-top: 8px;
+  padding-bottom: 8px;
 }
 
 /* broken in tailwind v4 atm */
