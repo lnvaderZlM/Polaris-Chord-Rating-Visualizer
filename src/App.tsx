@@ -193,21 +193,22 @@ function App() {
                     const {paSkill, title, difficulty, id} = score;
                     const currImage = `https://p.eagate.573.jp/game/polarischord/pc/img/music/jacket.html?c=${id}`;
                     return (
-                      <div key={index} className={`difficulty-${difficulties.indexOf(difficulty) + 1} border-2 flex`}>
-                        <div className="w-1/3 relative">
+                      <div
+                        key={index}
+                        className={`difficulty-${difficulties.indexOf(difficulty) + 1} border-2 flex items-stretch`}
+                      >
+                        <div className="w-1/3 relative flex">
                           <img
                             src={currImage}
-                            // src={'/src/assets/Placeholder.png'}
-                            className="h-full object-cover"
                             alt=""
+                            className="object-cover w-full h-auto min-h-0 min-w-0 flex-1"
                           />
-                          {/* Gradient overlay */}
                           <div className="absolute top-0 right-0 bottom-0 w-full bg-gradient-to-r pointer-events-none"></div>
                         </div>
-
-                        {/* Text div */}
                         <div className="w-2/3 flex flex-col justify-center">
-                          <div className="px-2">{title} ({difficulty})</div>
+                          <div className="px-2">
+                            {title} ({difficulty})
+                          </div>
                           <div className="px-2">{paSkill.toFixed(2)}</div>
                         </div>
                       </div>
@@ -215,8 +216,8 @@ function App() {
                   })}
                 </div>
               </TabPanel>
-              <TabPanel key="table" value="table" className="text-foreground">
-                <table className="w-full text-left border-1 border-foreground">
+              <TabPanel key="table" value="table" className="text-foreground overflow-x-auto">
+                <table className="w-full text-left border-1 border-foreground min-w-full border-collapse">
                   <tr className="">
                     <th className="cell-padding">Song</th>
                     <th className="cell-padding">Grade</th>
