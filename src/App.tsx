@@ -37,6 +37,7 @@ function App() {
   const [userRating, setUserRating] = useState<number | null>(null);
   const [error, setError] = useState<any>(null);
   const userScoresRef = useRef<HTMLTextAreaElement>(null);
+  const [activeTab, setActiveTab] = useState<string>("image");
 
   const handleJsonLoad = (json:any) => { //expected to be official score data from ea site
     if(!userScoresRef.current) return; //@TODO possibly error here
@@ -155,6 +156,7 @@ function App() {
     setError(null);
   };
 
+
   return (
     <HeroLayout align="">
       <div className="">
@@ -181,61 +183,69 @@ function App() {
       {userRating !== null && 
         <div className="mt-4 text-foreground">
           <h2 className="text-left text-lg font-semibold">User Rating: {userRating.toFixed(2)}</h2>
-          <Tabs value="image" className="mt-4">
+          <Tabs value={activeTab} className="mt-4">
             <TabsHeader {...({} as any)}>
-              <Tab {...({} as any)} key="image" value="image" className="cursor-pointer text-blue-gray">B30 Image</Tab>
-              <Tab {...({} as any)} key="table" value="table">All Scores Table</Tab>
+              <Tab {...({} as any)} key="image" value="image" className="cursor-pointer text-blue-gray" onClick={() => setActiveTab("image")}>B30 Image</Tab>
+              <Tab {...({} as any)} key="table" value="table" onClick={() => setActiveTab("table")}>All Scores Table</Tab>
             </TabsHeader>
             <TabsBody {...({} as any)}>
               <TabPanel key="image" value="image" className="text-foreground">
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2">
-                  { scores.map((score, index) => {
-                    const {paSkill, title, difficulty, id} = score;
-                    const currImage = `https://p.eagate.573.jp/game/polarischord/pc/img/music/jacket.html?c=${id}`;
-                    return (
-                      <div
-                        key={index}
-                        className={`difficulty-${difficulties.indexOf(difficulty) + 1} border-2 flex items-stretch`}
-                      >
-                        <div className="w-1/3 relative flex">
-                          <img
-                            src={currImage}
-                            alt=""
-                            className="object-cover w-full h-auto min-h-0 min-w-0 flex-1"
-                          />
-                          <div className="absolute top-0 right-0 bottom-0 w-full bg-gradient-to-r pointer-events-none"></div>
-                        </div>
-                        <div className="w-2/3 flex flex-col justify-center">
-                          <div className="px-2">
-                            {title} ({difficulty})
+                {activeTab === "image" && 
+                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2">
+                    { scores.map((score, index) => {
+                      const {paSkill, title, difficulty, id} = score;
+                      const currImage = `https://p.eagate.573.jp/game/polarischord/pc/img/music/jacket.html?c=${id}`;
+                      return (
+                        <div
+                          key={index}
+                          className={`difficulty-${difficulties.indexOf(difficulty) + 1} border-2 flex items-stretch`}
+                        >
+                          <div className="w-1/3 relative flex">
+                            <img
+                              src={currImage}
+                              alt=""
+                              className="object-cover w-full h-auto min-h-0 min-w-0 flex-1"
+                            />
+                            <div className="absolute top-0 right-0 bottom-0 w-full bg-gradient-to-r pointer-events-none"></div>
                           </div>
-                          <div className="px-2">{paSkill.toFixed(2)}</div>
+                          <div className="w-2/3 flex flex-col justify-center">
+                            <div className="px-2">
+                              {title} ({difficulty})
+                            </div>
+                            <div className="px-2">{paSkill.toFixed(2)}</div>
+                          </div>
                         </div>
-                      </div>
-                    )
-                  })}
-                </div>
+                      )
+                    })}
+                  </div>
+                }
               </TabPanel>
-              <TabPanel key="table" value="table" className="text-foreground overflow-x-auto">
-                <table className="w-full text-left border-1 border-foreground min-w-full border-collapse">
-                  <tr className="">
-                    <th className="cell-padding">Song</th>
-                    <th className="cell-padding">Grade</th>
-                    <th className="cell-padding">Constant</th>
-                    <th className="cell-padding">Rating</th>
-                  </tr>
-                  { allScores.map((score, index) => {
-                    const {paSkill, title, difficulty, chartConstant, grade, achievement_rate } = score;
-                    return (
-                      <tr key={index} className={`difficulty-${difficulties.indexOf(difficulty) + 1} border-b-1 border-background`}>
-                        <td className="cell-padding">{title} ({difficulty})</td>
-                        <td className="cell-padding">{achievement_rate/100}% {grade}</td>
-                        <td className="cell-padding">{chartConstant}</td>
-                        <td className="cell-padding">{paSkill.toFixed(2)}</td>
+              <TabPanel key="table" value="table" className={`text-foreground overflow-x-auto`}>
+                {activeTab === "table" && 
+                  <table className="w-full text-left border-1 border-foreground min-w-full border-collapse">
+                    <thead>
+                      <tr className="">
+                        <th className="cell-padding">Song</th>
+                        <th className="cell-padding">Grade</th>
+                        <th className="cell-padding">Constant</th>
+                        <th className="cell-padding">Rating</th>
                       </tr>
-                    )
-                  })}
-                </table>
+                    </thead>
+                    <tbody>
+                      { allScores.map((score, index) => {
+                        const {paSkill, title, difficulty, chartConstant, grade, achievement_rate } = score;
+                        return (
+                          <tr key={index} className={`difficulty-${difficulties.indexOf(difficulty) + 1} border-b-1 border-background`}>
+                            <td className="cell-padding">{title} ({difficulty})</td>
+                            <td className="cell-padding">{achievement_rate/100}% {grade}</td>
+                            <td className="cell-padding">{chartConstant}</td>
+                            <td className="cell-padding">{paSkill.toFixed(2)}</td>
+                          </tr>
+                        )
+                      })}
+                    </tbody>
+                  </table>
+                }
               </TabPanel>
             </TabsBody>
           </Tabs>
