@@ -69,6 +69,12 @@ function App() {
       return;
     }
 
+    // const distorder = calculatePaSkill(14.3, 15.8, 9919, 9800, 9950);
+    // const whatsuppop = calculatePaSkill(14.2, 15.7, 9933, 9800, 9950);
+    // const kamui = calculatePaSkill(14.4, 15.9, 9865, 9800, 9950);
+
+    // console.log(distorder, whatsuppop, kamui);
+
     const musicData = userScores.data.score_data.usr_music_highscore.music;
 
     const fullScoreData:any = {};
@@ -191,16 +197,16 @@ function App() {
             <TabsBody {...({} as any)}>
               <TabPanel key="image" value="image" className="text-foreground">
                 {activeTab === "image" && 
-                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2">
+                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 auto-rows-fr">
                     { scores.map((score, index) => {
-                      const {paSkill, title, difficulty, id} = score;
+                      const {paSkill, title, difficulty, id, achievement_rate, grade, chartConstant} = score;
                       const currImage = `https://p.eagate.573.jp/game/polarischord/pc/img/music/jacket.html?c=${id}`;
                       return (
                         <div
                           key={index}
-                          className={`difficulty-${difficulties.indexOf(difficulty) + 1} border-2 flex items-stretch`}
+                          className={`difficulty-${difficulties.indexOf(difficulty) + 1} border-2 flex items-stretch p-1`}
                         >
-                          <div className="w-1/3 relative flex">
+                          <div className="w-3/9 relative flex">
                             <img
                               src={currImage}
                               alt=""
@@ -208,11 +214,13 @@ function App() {
                             />
                             <div className="absolute top-0 right-0 bottom-0 w-full bg-gradient-to-r pointer-events-none"></div>
                           </div>
-                          <div className="w-2/3 flex flex-col justify-center">
-                            <div className="px-2">
-                              {title} ({difficulty})
+                          <div className="w-6/9 flex flex-col justify-center">
+                            <div className="px-2 font-bold truncate">
+                              {title}
                             </div>
-                            <div className="px-2">{paSkill.toFixed(2)}</div>
+                            <div className="px-2">{achievement_rate/100}% {grade}</div>
+                              <div className="px-2">Lv. {chartConstant}</div>
+                              <div className="px-2 font-bold">{paSkill.toFixed(2)}</div>
                           </div>
                         </div>
                       )
