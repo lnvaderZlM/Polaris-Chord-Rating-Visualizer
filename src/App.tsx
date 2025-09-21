@@ -69,12 +69,6 @@ function App() {
       return;
     }
 
-    // const distorder = calculatePaSkill(14.3, 15.8, 9919, 9800, 9950);
-    // const whatsuppop = calculatePaSkill(14.2, 15.7, 9933, 9800, 9950);
-    // const kamui = calculatePaSkill(14.4, 15.9, 9865, 9800, 9950);
-
-    // console.log(distorder, whatsuppop, kamui);
-
     const musicData = userScores.data.score_data.usr_music_highscore.music;
 
     const fullScoreData:any = {};
@@ -87,6 +81,10 @@ function App() {
         playedCharts = [playedCharts];
       }
       const chartConstants = allChartConstants[songTitle as keyof typeof allChartConstants];
+      if(!chartConstants) {
+        console.error("Couldn't find constants for song " + songTitle);
+        continue;
+      }
 
       for(let playedChart of playedCharts) {
         const {achievement_rate, chart_difficulty_type} = playedChart;
@@ -169,6 +167,11 @@ function App() {
         <h1 className="text-5xl font-extrabold text-white drop-shadow-lg mb-4">
           Polaris Chord Rating Analyzer
         </h1>
+        <div>
+          <h2>Calculate Single Score</h2>
+          <input type="number" placeholder="chart constant"></input>
+          <input type="number" placeholder="ach. rate"></input>
+        </div>
         <div className="flex flex-col items-start mb-4">
           <label>Input scores here:</label>
           <div className="flex w-full gap-2 flex-col md:flex-row items-center mb-4">

@@ -1,0 +1,4042 @@
+{
+    "data": {
+        "score_data": {
+            "usr_music_highscore": {
+                "music": [
+                    {
+                        "music_id": "77b0f98b7f247b0251da420959ed4717",
+                        "name": "Crossfade",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "8cf4ddbdc70fd5fbd9bc93a0afd0ec07",
+                        "name": "ぐしゃ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9971
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "a98945e3adef76f16f24bdec6ce53ae8",
+                        "name": "アイドル",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "6c203f4ace369473e669874ca38a7604",
+                        "name": "神っぽいな",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "a42844243f7af9bc48c7de755110363e",
+                        "name": "強風オールバック",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "8ca4369e2b2e696061a03006341d7ee5",
+                        "name": "エイリアンエイリアン (富士葵 Cover)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "dbd60c359a9936adf7d38860ad050fd5",
+                        "name": "Accelerate",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "22c4f66a905842adfcab58d2456fa821",
+                        "name": "ホイホイ☆幻想ホロイズム",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9971
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "c7a281dbf524ea303bc247148a93de44",
+                        "name": "Oh wow!",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "a1dc620609cb079b238f048d8174e6ab",
+                        "name": "インドア系ならトラックメイカー",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "aa60e63d59e237dc4bcdbe73006660ca",
+                        "name": "#あくあ色ぱれっと",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "c4f990634ccc0b3e3ba5c9a77bdb653a",
+                        "name": "放課後ストライド",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9971
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "d88634a366ca58c96c13a47ab5934fb7",
+                        "name": "KING",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "432f213935a288990d8c4a9d095c2e4a",
+                        "name": "エゴロック",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "8e49050aec857b08e703ad2a11aaf3df",
+                        "name": "ロキ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "33ba1d8163621f5962d6021f5841f2f6",
+                        "name": "ロストワンの号哭",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "c50744c81933df5e1887070cbcd3e358",
+                        "name": "ヒトガタ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9937
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "5a0be715d9ba1c7614770001b8b87bf3",
+                        "name": "Hello, Hologram",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9955
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "025cc6c0296713c3c7c5a6ec9978bb75",
+                        "name": "空っぽの箱庭",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9967
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "134595e72024cd95cdc8a1e0dbcab8ed",
+                        "name": "Raise your voice!",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9959
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "ea0df24cb7832d49e3dc28ad075c05e8",
+                        "name": "少女レイ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "1d1afcc9cbdaf293ae36a54f534598f6",
+                        "name": "シアワセうさぎ・ぺこみこマリン",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "0334938c5d9248e9b167425d23a021eb",
+                        "name": "キャプテン・マリンのケツアンカー",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "69051b33a543f6ba31225636910ce6f8",
+                        "name": "イヤホンロマンス",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "e9fc5526fae6c7491987ede5106af9cc",
+                        "name": "Over the Border",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "4e67ebe4e4be30784ef81855ed81811f",
+                        "name": "Help me, ERINNNNNN!! #幻想郷ホロイズムver.",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "ba4a846fed6671b499edf552ad96daa5",
+                        "name": "閃光花火",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "d3295e78df52b5211cee04a2257cbdf9",
+                        "name": "逆転劇",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "17a28f71118d2d4bea7f7e78b4245168",
+                        "name": "ラヴィット",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "b27e4679f70c94fb2ab441b77118d8a4",
+                        "name": "秘密のメリーゴーランド",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "ce7d57d1319af742cea4fe4b3878dd68",
+                        "name": "UMenity",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "0fb27e25ec15337d8c0fa5e6e45e067a",
+                        "name": "Nobody knows",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9958
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "921809730bc762b233cd9d89cbd19697",
+                        "name": "トウキョウ・シャンディ・ランデヴ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "5a1dcd0c41a66f700801e9b4f9ebd19d",
+                        "name": "What an amazing swing",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "cb08d5a78176f8e89eaa2fc1741d825d",
+                        "name": "ヴァンパイア",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "0d96df03e20ced25c4c97484fd68ef3c",
+                        "name": "デンノウス・キルズ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "6e1c9d51b17cc467633ce6ff8e1dd312",
+                        "name": "エゴロック (すりぃ Cover)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "07c62dbfdd2ea4db66a2a84061da7063",
+                        "name": "ロキ (HIMEHINA Cover)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "a84bfc45ad79b3874be314a8699e4b9c",
+                        "name": "シンクロニティ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "9e68dedaad4e106d5dbd2c2b5398fb7e",
+                        "name": "抜刀",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "55dcb7f0657cfa3907c6016fc1ed82ce",
+                        "name": "魔法少女とチョコレゐト (絲依とい Cover)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "18cd922baa4ceb46501f1cf8cd471844",
+                        "name": "魔法少女とチョコレゐト",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "e13c7ade7d5b548a0407a501acab6cd2",
+                        "name": "少女レイ (緋月ゆい Cover)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "e7e8753b39d2889f67557fe0adba7c21",
+                        "name": "ラグトレイン",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "d734a3d4482ddfea507c18006cb72c08",
+                        "name": "感情ディシーブ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "ca137c9945929117e91033e5908f64ee",
+                        "name": "イタズラネコライフ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "9a50b257302539e1d702ae45d8a566c4",
+                        "name": "#病みカワ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9971
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "0c84062d605fdb2d0b02d2df00daf0e4",
+                        "name": "Oh my！Follow me",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "8d396814860290d65d98b95bb3329700",
+                        "name": "粛聖!! ロリ神レクイエム☆",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "7e7d0e8d73c2c641eaa5628b8b4c8826",
+                        "name": "シャングリラ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "3138caf4a50ea7ba6dc20e9ccc611945",
+                        "name": "バタフライエフェクト",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "9dfa555af968dc8b77104f2bf218acc4",
+                        "name": "追熟",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "c13baa5f09982154d5e6d777e940344d",
+                        "name": "レクイエム (feat. 星街すいせい)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "dfc3dcf93e5af7e957064926c9cba725",
+                        "name": "ファビュラス",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "be1e9cde02405dcf5f3922f89beb79cd",
+                        "name": "待チ人ハ来ズ。",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "1a5a40723b95f76942f99a605438cc9c",
+                        "name": "幻想のサテライト",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9987
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "b021bc4ab68a26976875e57b3c69630e",
+                        "name": "チルノのパーフェクトさんすう教室",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "bba05555a816f2624c4fc1c19f241234",
+                        "name": "スカーレット警察のゲットーパトロール24時",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9934
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "c5590464602b97f7584b51d0bd5eadb6",
+                        "name": "魔理沙は大変なものを盗んでいきました",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9949
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "cc78be92a237678a93e550245c9b9cb4",
+                        "name": "Only You",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "9d49f507fa1621d4b6d284fbe9e6dec1",
+                        "name": "モンスターカミング",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "a54acdda33dac1d8124186a508c8da9f",
+                        "name": "STAY PROUD",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "55adf58bc6888727257bf45046a9c332",
+                        "name": "Streamer",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "75e459779ed07673fef962ff409ed6a7",
+                        "name": "おかえりらぶっ！",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "3457fd2e2549a32466e4e8a149c028ee",
+                        "name": "ストロベリー☆プラネット！",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "bb8a9e285d7a5ae836953f3b21c58706",
+                        "name": "青春チョコレート",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "0403e4a8ec21e6f3401c7ef9cee791d0",
+                        "name": "唱",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "f293bd39e9e7352421fbe028691512ab",
+                        "name": "Now on step",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "d9be81825aa0d80a2ee1c8bc927a0122",
+                        "name": "My song",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "5ce6f0f90d5c8419e42742608cf36cc1",
+                        "name": "夢見る羊",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "9d449b4b3aa1f42dd2ee9a1b1ecb33c9",
+                        "name": "れすきゅぅうぅぅ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9971
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "b2631189e93dd63955fc02f9d72a36aa",
+                        "name": "ジェヘナ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "1af07e3884a9559600d876260509e192",
+                        "name": "可惜夜の残り火",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "a03c8cb46a07198bc4655db803bf0899",
+                        "name": "PUPA",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "eb1d4dc9fc4672d4d32c10fa15ba9850",
+                        "name": "めうめうぺったんたん！！",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9978
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "e6b4884000144f8bb212f9735534e1b8",
+                        "name": "滅亡天使 † にこきゅっぴん",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "cf2e098c0ca80f65ebdbe9a68d1e035a",
+                        "name": "チョコレートスマイル",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "152cea71026329e0f89d0cfa43d497b4",
+                        "name": "カタルシスの月",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "8436dfec47b30db9e000b418cca18aa3",
+                        "name": "ポラリスノウタ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9943
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "b9fc0469bffc0523a06ab015a4adb294",
+                        "name": "Lockdown",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "9cb3a8d74d3fde8301193a4f5d767f1e",
+                        "name": "Let’s Ghost",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "4decfa07031dbce51fb49886ab15b49b",
+                        "name": "Necromantic",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "2b244addb31ab453ecfdb45898230be7",
+                        "name": "トランスダンスアナーキー",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9983
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "3794ed4e287b1fb9cd7b330719d8cdfc",
+                        "name": "Last danceR",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "4983b49ce621a51171ca79864f1a3bbc",
+                        "name": "悪戯センセーション",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "b0e2ff92aecced7377cd23ba599397b3",
+                        "name": "運命線上のアリア",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "3e553f683f3198814791d9e656e12037",
+                        "name": "Blossom",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "866a9bbaea82cf0971c0995f3c43705f",
+                        "name": "cyanotype",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9981
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "4e371e043d2e36f80ba03f54372064ac",
+                        "name": "アルティメットセンパイ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "c429c66a9b633ff6f478d5c6eed57fa0",
+                        "name": "マツヨイナイトバグ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "42e24cfb9a87ddda41e6464c6373799e",
+                        "name": "さよならトリップ ～夏陽 EDM edition～",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "a6dd13886baccce6b75f804915340d89",
+                        "name": "魔法のたまご ～心菜 ELECTRO POP edition～",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "9db7bd991d26524a38c80935de6b3111",
+                        "name": "Triptych Symphony",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "1ed2e6d3ee07c77a06c14bb4672e2377",
+                        "name": "conflict",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9929
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "6ba5cd230a18881ed2b628b8edd2468d",
+                        "name": "ラビットホール",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9964
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "73e237e9203eeff76466cf13a3e256bb",
+                        "name": "Prince",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "aa1d4ccb5e236aa702522237134e6f72",
+                        "name": "はりーはりーらぶ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "697427d680c78e5908555f55ed9aae8e",
+                        "name": "ルマ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "75aaaf087bbd09c47b13f18afdacb245",
+                        "name": "ワンダラー",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "26f4e40c22afcb713a36f574a97a4712",
+                        "name": "僕らだけのシャングリラ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "27f3451d2105b7cefb31149d8879e329",
+                        "name": "地方創生☆チクワクティクス",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "8dfc50e0739b5309de7d73700e757a73",
+                        "name": "乙女繚乱 舞い咲き誇れ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "1df2e699e440ee5afbbe4e2130e2941d",
+                        "name": "neko＊neko",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "5520b99fbbaa268f7acaf1de1f6f99f5",
+                        "name": "Chronomia",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9944
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "b2cb51abcba479c4bdd0cb151bdfba92",
+                        "name": "I.R.O",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "df41f59dc6a19dfc3573788fdc7c717c",
+                        "name": "RunRunAround",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "611b9f5b75502cd0c9c7c6350b6caef9",
+                        "name": "周回軌道",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "5f06dcded71be16124cc4decf1d34168",
+                        "name": "コネクトリップ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "e49418210ecf949c22f3432ec720bfbc",
+                        "name": "Who are you...?",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "f4abcd9ad520441bf65b335ea53f9e4e",
+                        "name": "臨界ダイバー",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9952
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "2d61b76aac812712bd104c87e22f21ee",
+                        "name": "パ→ピ→プ→Yeah! (大海嘯オルカ Cover)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9947
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "432a34294d070c3947af5a13ed0232da",
+                        "name": "こぐまがいるんだ (大隈子熊 Cover)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9701
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "bc06853c76a4c11e1edca8232949f05e",
+                        "name": "エゴロック (宿木鷹臣 Cover)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "6c0ffd952559f05fc0220204fc6b4510",
+                        "name": "レイドバックジャーニー",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "6ca20e9f79817ef5e614d5b60e113629",
+                        "name": "ビビデバ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "3622ef3409f49efc1dfd45feb22a0b57",
+                        "name": "ソリッド",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "e15c33f4486dd2f034a2feb906badbea",
+                        "name": "HELLOHELL",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9971
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "ff7910176d3ac2aa8e5557770f66d1f8",
+                        "name": "ナイト・オブ・ナイツ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "f273f01bd4920ee32812e480234ee79d",
+                        "name": "DUCTFOOD",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9976
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "175c4c9b8b6dce554bf267dfe7242108",
+                        "name": "I I I",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "b0672715c000aa50f11b5e94e02eaab2",
+                        "name": "Pixel Galaxy",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "3b2862c76f3367d5aa10d852dfbc03fb",
+                        "name": "むしみこうにゃーのハッピッピー",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "25ce6c0130dcc96b32e0510078c79a8f",
+                        "name": "三妖精SAY YA!!!",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "0b30c97c3cae8c4455e4f27f613e1383",
+                        "name": "Grip & Break down !!",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "cab8f1f7377de7da6a2a1a8cfa836ef6",
+                        "name": "INFINITE WORLD",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "004b380b894e5d6cb71545a295ad6d85",
+                        "name": "異常な音を出すガール",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9923
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "4462c2c6c63ddf27574f561ea423124c",
+                        "name": "ダーリン",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "2067d13e81d909f60e624cd84cc57a62",
+                        "name": "ギザバ怪文書",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9945
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "2dc3c899548f4bf30136c855788acf0f",
+                        "name": "ちくわパフェだよ☆ＣＫＰ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "10b743c637c4052e76cec26e6ef552b0",
+                        "name": "ロンロンへライライライ!",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9861
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "909c649ab489ab7dbc01280b6e45ea9d",
+                        "name": "楔",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "a96ba68dbb98899e79ee617623587985",
+                        "name": "朧 (綿間瀬わたこ Cover)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "da0d1355da85cab9fa55b5a0114b3108",
+                        "name": "Q",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "efab2eaf540fa39a30c3b38041e4db5b",
+                        "name": "GOLDEN",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "024cfff8f7ae69d56f9fa46326ea1598",
+                        "name": "愛包ダンスホール",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "55a54e327fa2015d833049a391228e32",
+                        "name": "嘘ミーム",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "8895e201c8abaa7facc52be84b8f9564",
+                        "name": "人マニア",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9981
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "8c6822cca7dc9b17eadce3e13c9a4455",
+                        "name": "Here We Go!!",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "adb45baffaefd1a377c000817f958c2a",
+                        "name": "スキスキ星人",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "5d85466c26dc837e27a4808a41342810",
+                        "name": "プロポーズ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "83373b3bc997664f99ddb0b4e8491c34",
+                        "name": "ベリベリラブ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "f62453a9ba8f5fb96332747c9b08d54c",
+                        "name": "大好きになればいいんじゃない?",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "75eb26d1cbb52acc80562e540f119612",
+                        "name": "きゅんきゅんみこきゅんきゅん♡",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "b92e67ede288bed526382b48ffffe398",
+                        "name": "Dear Deer",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9931
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "6525c7bbc322cdd8df14ff312b141154",
+                        "name": "HOLOGRAPHY",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9957
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "041203b8776c2691903ac4424cac79c3",
+                        "name": "Ö<3rf10₩",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9933
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "a5e79df542fc3f8b2ddb1409024f341d",
+                        "name": "風呂入るプロファイル",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "ad4bf1ac0f4e69faef8e239a9959aaeb",
+                        "name": "六兆年と一夜物語",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "1cd84d84b12ad44d599786183fba712b",
+                        "name": "QUATTUORUX",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9911
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "2da1692b69c67a89883f977429d23eb2",
+                        "name": "ANEMONE",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9948
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "341971bc7302bcf92645e23c6dfe12de",
+                        "name": "FACT",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "952ad1f701179b75dd17c4b966e8fd64",
+                        "name": "ライメイ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9977
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "52197ea8d0c4f2e68dcbc0eb3d496c45",
+                        "name": "響縁",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "2a1cb30dfe3264f6f9441a6853ff4ba1",
+                        "name": "WARNING×WARNING×WARNING",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "780382d2658a5f096931a8640963e0fa",
+                        "name": "超々キューカンバー",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "8e3fe8b7cbd7ec0f1abe87dc2b1e10f3",
+                        "name": "しゅわスパ大作戦☆",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "d15cbb385fc63e8476e080d8cc42bb22",
+                        "name": "閉塞的フレーション",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9960
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "9ae418ef3bdbe3f54928d52af67a3673",
+                        "name": "残像ニ繋ガレタ追憶ノHIDEAWAY",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "3afcb502c67344196f8030d24849161f",
+                        "name": "弾幕信仰",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9962
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "3527ed35d8f0733efc20c590e1de5ba2",
+                        "name": "SUPER HEROINE!!",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "9290933dbc1d96c089868dbaa426dd06",
+                        "name": "LA VIE EN ROSE (Tatsunoshin Remix)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "fd529ad4f77340bb6bca5fb5d3499dcc",
+                        "name": "Paranoia",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "1b829a3a1fb2ecfb4cd3f0bd81cc9bad",
+                        "name": "Yearning",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "dd751b1622032ff550b493d1642e0f2f",
+                        "name": "メズマライザー",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9964
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "c770b754a5924faa66eb4ca161f4c9be",
+                        "name": "スターチューン (和乙葉ぺぺた Cover)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "6046fc95c3fa33da4a6b06bc90b0c5d0",
+                        "name": "Temporal Veil",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9948
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "24834c2e9107b13de091888c8d9a448c",
+                        "name": "MilK",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9981
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "892f54292ec367bc4ad166d34d98b006",
+                        "name": "オーバーライド",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9956
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "47acf24abc1f72705d16906098933091",
+                        "name": "ランカーキラーガール",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9969
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "7121ac42248b44acad7c7072a687f79a",
+                        "name": "Sparkle Smilin'",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "2c3a40558465cd47a85aad4772fc6a9c",
+                        "name": "狂水一華",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9951
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "70e023067cb51b8b868a23d3f2912e74",
+                        "name": "ハッピーシンセサイザ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "cf6346f73d110597558a823bb27b9f0d",
+                        "name": "いーあるふぁんくらぶ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "699d42e46424bd097e46ad58de96ac94",
+                        "name": "天ノ弱",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "f78dbbd20f4f16677243bc90e7fd2e25",
+                        "name": "初音ミクの消失",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9981
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "984d42c903f74daad49560e40e8dbe2a",
+                        "name": "セツナトリップ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9952
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "ea3426c59d0d18578c723f9d2f402cc5",
+                        "name": "神威",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9912
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "0704c0df694ec77a32972ab97e713a7a",
+                        "name": "FRENZY HEART",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9913
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "e041bbb2ce76dabf64bfafa39fa9a5dc",
+                        "name": "星界のアルペジオ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9974
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "925430798fe026b1bc43ad12424c5adb",
+                        "name": "幻想龍殺蟲毒少女・姫虫百々世",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9956
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "59476b514e57b66c12ff37ecd3c20f5e",
+                        "name": "㋰責任集合体",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "749c89fed89fb3a8a2b9f1cd80ed2c71",
+                        "name": "ミッドナイト☆WAR",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "46ab59dda93719f7c4cd4cee4eee8b50",
+                        "name": "ラブキラ☆スプラッシュ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9960
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "b5d6eb40678ffeb98688f1fc32499961",
+                        "name": "さよならプリンセス",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9980
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "a695db6a3f3113e3c7e94d55bdd7afbb",
+                        "name": "凛として咲く花の如く (大神ミオ Cover)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "26db8bc7fd7f7232426a71cd64416bca",
+                        "name": "３倍！Sun Shine！カーニバル！",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "ef94231172a30b239b46bad0effe5548",
+                        "name": "みつぼしパレード",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "ee498d8e7e64137e5ec1d0f6f93601b7",
+                        "name": "地獄屋八丁荒らし",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "07821066b40689b39328fd7be4acdac7",
+                        "name": "藍嵐",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "c814c0295cddb8982a04183edf04beb2",
+                        "name": "FRAMES",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "74736cbd413dacb16d524c0ff9acd67c",
+                        "name": "Hastur",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9955
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "df1b2dd234abb379a3209648df5dbf0a",
+                        "name": "Gale Rider",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9967
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "e2bbe02099a0fbeb792fcba598b4dc0a",
+                        "name": "カラフルミニッツ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "3671b60b7be1be6888667d9dc006f6b9",
+                        "name": "打打打打打打打打打打",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9930
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "17a0fb1dadd6988518aba4899bc343a5",
+                        "name": "ハッピーエンドをはじめから",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "bbde1b7b828490aa3d41e1fdd85a648b",
+                        "name": "MeteorA",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9973
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "9487ba18dd0e1416b4db67aa71b3e8e2",
+                        "name": "If",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "06960a8d3d5b52801f94ae358925eb53",
+                        "name": "Laughin' Muffin",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9939
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "6e2c3c6f34e23ed1da322fc062d12347",
+                        "name": "Mr.REAPER",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "f31eeaaa148f17d412d12b5086a5da32",
+                        "name": "Alche Miss Katrina",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "e7c892484cd912e8ec7264609c9ba247",
+                        "name": "N3XTAGE",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9944
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "7a91252151cc50efdca5831637d2d5f1",
+                        "name": "エンドレス・てゐマパーク",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "beec36f43afa302c004f303829297cc9",
+                        "name": "超最終鬼畜妹フランドール・S",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9955
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "2efa4850534297b7baf17a859ce63682",
+                        "name": "有頂天ドリーマーズ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "5d4411d4744aaad6cd857f325ca0d83d",
+                        "name": "Heartquake Super Shock",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9962
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "c6ba6f18921d9efb029bd1f4b301ce93",
+                        "name": "エキサイティング！！も・ちゃ・ちゃ☆",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9825
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "6d8c20eb184f3f53194b665c48c50770",
+                        "name": "けもののおうじゃ★めうめう",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "7e8eb75468abf5ec24618f20954d2e4e",
+                        "name": "めうめうぺったんたん！！ (ZAQUVA Remix)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9943
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "dbc7d46eae1d79306a53a1cb00e2be5b",
+                        "name": "Last Twilight",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9938
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "6c5096a1490d50daa1588d4f08eb25ac",
+                        "name": "バルベリア・タンゴ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9944
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "bf6d90936f263805a66b9d9d6285b225",
+                        "name": "n番目の女",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "6c2fea84ab8b49ca4a13f5b50373dfc3",
+                        "name": "ネリと琥珀糖",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9914
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "ada5d23a10b0db1434a1c9bf4a9fd9b7",
+                        "name": "ヒバナ (緋月ゆい Cover)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "cbe40bfb0ba8cae8d41a68a3c3795f8f",
+                        "name": "Stellar Stellar",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9988
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "b89b82adbe22da79165190951cf6dffb",
+                        "name": "美少女無罪♡パイレーツ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "a151c7664f96ed9f25acd3c51643b3ea",
+                        "name": "WAO!!",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9963
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "c6023cc227d6c2e33946ee5d28379d91",
+                        "name": "水鏡 (日下育彦 Cover)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9942
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "01e25b22e98f26dd7471b02c29bae2ce",
+                        "name": "恋はどう？モロ◎波動OK☆方程式！！ (福來羽羅 Cover)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "f7a9eb1a6546c07da27338cae5c65363",
+                        "name": "Wow Wow VENUS (乾セナ Cover)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "7e47b486b443d3a3e2543deb8676e7d7",
+                        "name": "Eidos",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "5ba42ce2fc895054e5ae2306ff3d83cb",
+                        "name": "Re：End of a Dream",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9924
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "0ee570a807222ead90c418a41b6be11d",
+                        "name": "Altale",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9953
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "97786cf3a1cd9bd1f6bed85e5b9f8903",
+                        "name": "ライアーダンサー",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "1f7a0fd828a0e31c30299acacc519749",
+                        "name": "555 (Please call me “Go! Go! Go!”)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9909
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "9f622d90fc1256f17c935df65a0eb2d3",
+                        "name": "DISTORDER",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9919
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "8db9fbb60222f3820fed97b3a789be5d",
+                        "name": "Baphomet",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9728
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "8db9fbb60222f3820fed97b3a789be5d",
+                        "name": "Baphomet",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 2,
+                                    "achievement_rate": 9970
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "b8fd8baeff800fac1e8ea4ab8f4fca5a",
+                        "name": "Extra No.3",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9953
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "008e12b6549db2e25b1ad15328b16e6b",
+                        "name": "イガク",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9967
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "e75ef25a8771b306d58b3a060f910a13",
+                        "name": "FLVSH OUT",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9964
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "ed26b03d9327abae03430cfeb41ce1f5",
+                        "name": "Old Heaven",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "17c54ec1ad0166019337b8438aa6f452",
+                        "name": "Bad Apple!! feat. nomico",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "63fd3f52118d6f90cefd6506e449b412",
+                        "name": "Excelsia",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9961
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "3ca311925552185ce4e8aed2a702b86d",
+                        "name": "What's up? Pop!",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9933
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "e24c41faa164c1597e6ce43106bce983",
+                        "name": "Brand New Day",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9949
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "22c4fac1e4a8c83e517c9f2d78303528",
+                        "name": "ONESELF",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 9853
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "056012a74b20d1230da1f2ac8bb905cb",
+                        "name": "Help me, ERINNNNNN!!",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "b57924b192e785abb2a66a92746f5b55",
+                        "name": "ちくわパフェだよ☆ＣＫＰ (Yvya Remix)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "cc424855ef4bab0f0d18e77b64503529",
+                        "name": "ミラクル・スイート・スイーツ・マジック！！",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "5035613a616c0327ca4a58a22ed1b4e5",
+                        "name": "恋とキングコング",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "532f4123ed447705a987137396305615",
+                        "name": "ぽかぽかレトロード",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "26e76afcfc555263e1e9086c7c61d7c4",
+                        "name": "CROWD NINE",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "e0420c05eac1d2cee141954573520304",
+                        "name": "未来証明",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "2f6faf476a9dc43b6d06aebd6c0120a5",
+                        "name": "B.B.K.K.B.K.K.",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "a35aea1f35102bf5122517d61e0d9be8",
+                        "name": "ULTRA SYNERGY MATRIX",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "a8f006b139e53d38504e610982a69d38",
+                        "name": "HYPER LOVE",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "b532851ef6bb3a58146d2af4c89f1714",
+                        "name": "Two♡Hearts",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "f36955300265135e4021c9001f2d0f62",
+                        "name": "おにけもだんす",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "33dd8015e79badd964fb1324231e62fd",
+                        "name": "なかま歌",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "fd57936d0c6b1fa4449d0bc3f2aeddbc",
+                        "name": "イケ贄",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "56b5682f8c58d175e290d0da4620a08f",
+                        "name": "寝起きヤシの木",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "9a8f046427f0a9d1d8362900ca190b99",
+                        "name": "恋繋エピローグ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "3fefa9efc8d3111f9b18c17b155b2cf6",
+                        "name": "Dystopia",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "96d4108a881cc90d9346d625b491a1ec",
+                        "name": "crescent moon",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "376c43ae157352e73d572ca4b94b04c4",
+                        "name": "Bad ∞ End ∞ Night",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "88155df43cbcb2a796509edee4fcdba3",
+                        "name": "クノイチでも恋がしたい",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "2d1b9b80cb107fdb41e75fdd5dc3bedd",
+                        "name": "DULLY",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "ef0cbbad7bc50b4cfbd0ee9cd124cd49",
+                        "name": "羊のような雲はどこまで",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "d2079b2c9482474ca44a0652d5efa47e",
+                        "name": "EBONY & IVORY",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "6f09c7ed1f41b7c47e7a8adc667465cb",
+                        "name": "爆なな☆てすとロイヤー",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "f52d39694dbd00abba5b43b178d38339",
+                        "name": "惑星☆ロリポップ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "9eddc7f77bc578f5f99aeb2c5f0c4296",
+                        "name": "それは花火のような恋",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "653944a1f128cccc41a3a1c56e7c89f9",
+                        "name": "のだ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "736113e709770a44f00c34e848979f81",
+                        "name": "ヒミツダイヤル",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "55188fea4f44a030b59fdc564fcd9ca6",
+                        "name": "ヒカリユリイカ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "180b0b5c5f78dd12e94982d4811f54e0",
+                        "name": "ムラサキグルマ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "61cc8d6c55588e9f2b7ec0cc9ccb3a0b",
+                        "name": "Finally Dive",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "5520e56046ea8d3572eac80c6c3f50bb",
+                        "name": "ロマンシングエスケープ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "fb23f474b617fd0a82b08efdc88168c7",
+                        "name": "滅びに至るエランプシス",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "28cf93cb4ef1c66084aa65763071cfb5",
+                        "name": "3 A.M. ディテクティブ・ゲーム",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "4dfa47819720989234333bb806360941",
+                        "name": "黒髪乱れし修羅となりて ～凛 edition～",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "ebd4a332222cc8f46263941e34309cb7",
+                        "name": "雪の雫・雨の音",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "ea46c1d9518428edd8b4b983bafd3a4a",
+                        "name": "Moon shadow",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "b6ae276c045fb6a2979719d9abd81efb",
+                        "name": "Synchronize",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "d8e0ef621c2f91802619ffebdffbad71",
+                        "name": "LOTUS",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "c78fb81b5a16635f27f2666300e7a65d",
+                        "name": "Welcome!!",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "7e7b7fcdd04635d637f394a160ad3649",
+                        "name": "かくれんぼ (胡桃のあ Cover)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "91f0b33d03b3db17d8a962314bc63941",
+                        "name": "感情ディシーブ (福來羽留 Cover)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "acdf6adcb92168b11c91160d634c99ff",
+                        "name": "Like the Starlight",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "870d7a97e3f5151c07ec0c553480613e",
+                        "name": "Maple",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "f86cb21935c96b78da89403851cf7a70",
+                        "name": "BLOOM",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "19c63202fdef7d8c1837e85101857022",
+                        "name": "Big Daddy",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "d70c5556243d8ef9135f53a44b80e018",
+                        "name": "丫",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "95d50325d32e69d43d537168fc56867b",
+                        "name": "Elemental Creation",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "3dbfa20f2fa3ff4ec285de4dd84ce9b0",
+                        "name": "ラキラキ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "b673486aea06738b1ee8bb89be6e164d",
+                        "name": "晴天Bon Voyage",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "48cf5fac9f5ee82c0fd1d940e22a3ba6",
+                        "name": "STULTI",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "ee8141cc6cde5b703892ed3f714db792",
+                        "name": "虹色の花",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "e709d87d690889b8e4094874b19f57b5",
+                        "name": "お米の美味しい炊き方、そしてお米を食べることによるその効果。",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "ba5757375ff4062d3308001b56c3c725",
+                        "name": "創世ノート",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "1a75156a4193870fb3d4a66891bd378a",
+                        "name": "Synergy For Angels",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "b7c18a89841f77b85409eb378927dbe9",
+                        "name": "Empathetic",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "afce994bad1597435832769d1d4cbc65",
+                        "name": "GAIA",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "4aa4c322698d42617fbf42c0beb13f78",
+                        "name": "L",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "9ef138cef45b6d3264cdff14f7ae99a8",
+                        "name": "Cool Me Down",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "6d57959f713839821fc884e9ec7aa2a0",
+                        "name": "VALLIS-NERIA",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "78d3f8926a521a0ecc09b2d92385d34b",
+                        "name": "テトリス",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "6318c90cd37f636f389b3873d7d2a76d",
+                        "name": "PON☆PON☆PARADE",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "5dafdfcf7b2ce67e7f224a046a02a804",
+                        "name": "ネハン",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "9c539b51f5cc9305d2f9b67b1b3ec8a9",
+                        "name": "プラネットヒーロー",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "755207d32d1d3d58047247cfb2266621",
+                        "name": "Resonant Gear",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "3ff1e4456e37825e4f98703a6f704ad4",
+                        "name": "Prayer",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "cb5a4d5c12b810c080f1b4a35f1914e0",
+                        "name": "Dyscontrolled Galaxy",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "7425b0e423b1b210f7b9ff5fdac782f1",
+                        "name": "カルマ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "42e43a2d692ce9c7b1a1b6af545052f8",
+                        "name": "ケロ⑨destiny",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "4f2824fa95715ad6eb1388245c7b913b",
+                        "name": "ウラボス",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "87ba3ba172568af75ef3dc529a3f1af6",
+                        "name": "El-Dorago",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "e317718e1ce163d36f08a1806c344ea2",
+                        "name": "量子の海のリントヴルム",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "36d63afbbbfbaa8cfec45e2cfeef6abb",
+                        "name": "concon",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "b41bb89ae6ea7957d023f65fc2a23273",
+                        "name": "I'm so Happy",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "d5bea9875e7f91f61b13f3d1d75be17c",
+                        "name": "Evans",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "1ef48a7d31be4cb85b1e21ad3cbf68f0",
+                        "name": "ギャ・ギャ・ギャ・ギャラクシー！",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "f066bbb1682a8e5873239c86492bb2c1",
+                        "name": "覚悟せよ！エンタンメ～ン ～より身の切り売り自暴自棄版～",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "0ee9c80f0255a76a1add03c4bad8c658",
+                        "name": "フラッフィー・アドベンチャー！",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "88079393110ea5713708254bd284dd5a",
+                        "name": "悲報！ワイ！ニート！",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "e8a94df13c3418c2393eb614b667e0d6",
+                        "name": "あおばの足音",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "7a416f39dcb5ba8c3fb42b8dca14ce69",
+                        "name": "惑星ループ (花芽すみれ Cover)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "cf14fd5940ec8a5fe95342e1d4618b65",
+                        "name": "エクスプロウル",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "6b112955da697fb46508d6015ae143d4",
+                        "name": "アイスクリームマジック",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "6b5bc6cb4566d8f48e373a626a78bd1e",
+                        "name": "Ha･lle･lu･jah",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "d490dae40612ea9a15f8270c1da0bfe3",
+                        "name": "Innocent",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "02cefd5c13937c6b4996bd6e480cd400",
+                        "name": "Ghost Family Living In Graveyard",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "622e1fd473e43377fa125a450fb5d928",
+                        "name": "隅田川夏恋歌 (珠村日乃和 Cover)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "50731976e58dd5315dba122d80d46a68",
+                        "name": "Trendy Cloudy LolIPopS",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "6b9498332673461d2af4c157f5421c8a",
+                        "name": "Moonlit Blue",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "4bfd16bd6f388ea038ae296a54a3e258",
+                        "name": "Happy come×2 Tea Time",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "79ff4a156359e4525afdcbd7959706ce",
+                        "name": "Poppin☆Mystic",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "210c291750c717c4c09a375a66794973",
+                        "name": "心泥夢(syndrome)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "c52bc8fbe8f2208fe7d386ad852cddee",
+                        "name": "How about rainbow flavors?( *´꒳`*)っ",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "41ab28d1f12848c8bcf1574a3c75e205",
+                        "name": "Stella Sinistra",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "97953c465a9208338aa5e69b7695895e",
+                        "name": "マインド・ゲーム",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "261e2d6164eb8b2e0f74ad15162fd32c",
+                        "name": "PUNISHER",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "3f215352b939c692ca537c1d76665a66",
+                        "name": "HYENA",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "29b39fa735af5f705e4d5cf3e19b7d2b",
+                        "name": "右肩の蝶 (空澄セナ Cover)",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "25335ab8226f6e7df5c2b7d712cba65a",
+                        "name": "きらきら☆彡ぷりんせす",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "music_id": "a347eb70969f50b3a29b26dae9dfed86",
+                        "name": "Citrus Burst",
+                        "chart_list": {
+                            "chart": [
+                                {
+                                    "chart_difficulty_type": 3,
+                                    "achievement_rate": 0
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
